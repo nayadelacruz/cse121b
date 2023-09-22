@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = 'Nayade De la cruz';
 let currentYear = 2023;
-let profilePicture = "/week2/w02-task/images/naya.jpg";
+let profilePicture = "./images/naya.jpg";
 
 /* Step 3 - Element Variables */
 let nameElement = document.getElementById('name');
