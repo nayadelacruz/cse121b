@@ -17,3 +17,4 @@ document.body.appendChild(newSection);
 //const newSection = document.createElement("section");
 //newSection.innerHTML = "<h2>CSE 121b</h2><p>Welcome to Javascript Language</p>";
 //document.body.appendChild(newSection);
+
